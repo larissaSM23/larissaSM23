@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E1065,50:7C3AED,100:A855F7&height=180&section=header&text=Larissa%20Soares%20Martins&fontSize=50&fontColor=ffffff&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E1065,50:7C3AED,100:A855F7&height=180&section=header&text=Larissa%20Martins&fontSize=50&fontColor=ffffff&fontAlignY=35" />
 </p>
 
 <p align="center">
