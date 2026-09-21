@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E1065,50:7C3AED,100:A855F7&height=180&section=header&text=Larissa&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Estudante%20de%20Sistemas%20para%20Internet&descAlignY=55&descSize=16&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E1065,50:7C3AED,100:A855F7&height=180&section=header&text=Larissa Soares Martins&fontSize=50&fontColor=ffffff&fontAlignY=35&animation=fadeIn" />
 </p>
 
 <p align="center">
@@ -10,7 +10,7 @@
 
 ---
 
-### Sobre mim
+### 📚 Sobre mim
 
 - Graduanda em **Sistemas para Internet** no IFRS
 - Técnica em Informática para a Internet pelo IFSul
@@ -24,7 +24,7 @@
 
 ### 🧰 Tecnologias
 
-<table>
+<table width="100%">
   <tr>
     <th>Categoria</th>
     <th>Skills</th>
