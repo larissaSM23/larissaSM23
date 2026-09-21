@@ -83,11 +83,6 @@
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=larissaSM23&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estatísticas do GitHub" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissaSM23&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" height="165"/>
-</p>
-
-<p align="center">
   <img src="https://github-stats-wy.vercel.app/langs/larissaSM23/donut?hole_radius_percentage=55&border_color=1a1b27&background_color=1a1b27&title_color=7aa2f7&text_color=c0caf5" alt="Linguagens por repositório" height="220"/>
 </p>
 
