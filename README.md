@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="www.linkedin.com/in/larissa-martins-2478421b3"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="http://www.linkedin.com/in/larissa-martins-2478421b3"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:larissamartins2507@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/larissaSM23"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
@@ -82,7 +82,10 @@
 
 ### 📊 Estatísticas do GitHub
 
-<table align="center"><tr>
-  <td>  <img src="https://github-stats-wy.vercel.app/langs/larissaSM23/donut?hole_radius_percentage=55&border_color=1a1b27&background_color=1a1b27&title_color=7aa2f7&text_color=c0caf5" alt="Linguagens por repositório" height="165"/></td>
-  <td>  <img src="https://github-readme-streak-stats.herokuapp.com/?user=larissaSM23&theme=tokyonight&hide_border=true" alt="Streak stats" height="165"/></td>
-</tr></table>
+<p align="center">
+  <img src="https://github-stats-wy.vercel.app/langs/larissaSM23/donut?hole_radius_percentage=55&border_color=1a1b27&background_color=1a1b27&title_color=7aa2f7&text_color=c0caf5" alt="Linguagens por repositório" height="220"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=larissaSM23&theme=tokyonight&hide_border=true" alt="Streak stats" />
+</p>
