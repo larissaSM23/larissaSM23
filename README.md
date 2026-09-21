@@ -26,8 +26,8 @@
 
 <table width="100%">
   <tr>
-    <th>Categoria</th>
-    <th>Skills</th>
+    <th width="20%">Categoria</th>
+    <th width="80%">Skills</th>
   </tr>
   <tr>
     <td>Linguagens</td>
@@ -82,10 +82,7 @@
 
 ### 📊 Estatísticas do GitHub
 
-<p align="center">
-  <img src="https://github-stats-wy.vercel.app/langs/larissaSM23/donut?hole_radius_percentage=55&border_color=1a1b27&background_color=1a1b27&title_color=7aa2f7&text_color=c0caf5" alt="Linguagens por repositório" height="220"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=larissaSM23&theme=tokyonight&hide_border=true" alt="Streak stats" />
-</p>
+<table align="center"><tr>
+  <td>  <img src="https://github-stats-wy.vercel.app/langs/larissaSM23/donut?hole_radius_percentage=55&border_color=1a1b27&background_color=1a1b27&title_color=7aa2f7&text_color=c0caf5" alt="Linguagens por repositório" height="165"/></td>
+  <td>  <img src="https://github-readme-streak-stats.herokuapp.com/?user=larissaSM23&theme=tokyonight&hide_border=true" alt="Streak stats" height="165"/></td>
+</tr></table>
